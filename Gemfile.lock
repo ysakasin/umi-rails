@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    umi-rails (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  umi-rails!
+
+BUNDLED WITH
+   1.11.2
